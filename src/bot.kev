@@ -7,7 +7,7 @@ dotenv.config()
 
 env ← 🧬 {
   TURSO_URL: "libsql://your-turso-db.turso.io",
-  TURSO_TOKEN:"OTYsImlkIjww29ZVlmaSNQYKLsxSKA3fS7yGTpxp509q8Rpn5-Ks7DQ",
+  TURSO_TOKEN:"8236172538:AAHC9_oBlfCfv8BsBne7DXFucCGpBsnQhF0",
   BOT_TOKEN: "1Lp35ZV8TKLDs"
 }
 
